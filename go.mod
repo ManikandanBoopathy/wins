@@ -43,8 +43,7 @@ require (
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/mattn/go-colorable v0.1.8
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.9.0 // indirect
-	github.com/prometheus/procfs v0.5.0 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/rancher/remotedialer v0.2.6-0.20201012155453-8b1b7bb7d05f
 	github.com/rancher/system-agent v0.1.0
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
@@ -53,7 +52,7 @@ require (
 	github.com/urfave/cli v1.22.5
 	go.opencensus.io v0.22.6 // indirect
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210225134936-a50acf3fe073
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
 	golang.org/x/text v0.3.5 // indirect
 	google.golang.org/genproto v0.0.0-20210207032614-bba0dbe2a9ea // indirect
 	google.golang.org/grpc v1.35.0
